@@ -1,0 +1,77 @@
+.software{
+	display: inline-block;
+	background: url(software.png);
+}
+
+
+@media (min-width: 1201px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 2px 0px;
+	}
+
+}
+
+@media (min-width: 1101px) and (max-width: 1200px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 512px 0px;
+	}
+
+}
+
+@media (min-width: 1001px) and (max-width: 1100px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 385px 0px;
+	}
+}
+
+@media (min-width: 901px) and (max-width: 1000px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 258px 0px;
+	}
+}
+
+@media (min-width: 801px) and (max-width: 900px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 130px 0px;
+	}
+}
+
+@media (min-width: 701px) and (max-width: 800px){
+	.software{
+		width: 128px; height: 239px;
+		background-position: 2px -241px;
+	}
+}
+
+@media (min-width: 601px) and (max-width: 700px){
+	.software{
+		width: 128px; height: 241px;
+		background-position: 511px -241px;
+	}
+}
+
+@media (min-width: 501px) and (max-width: 600px){
+	.software{
+		width: 128px; height: 239px;
+		background-position: 385px -241px;
+	}
+}
+
+@media (min-width: 401px) and (max-width: 500px){
+	.software{
+		width: 128px; height: 239px;
+		background-position: 258px -241px;
+	}
+}
+
+@media (max-width: 400px){
+	.software{
+		width: 128px; height: 239px;
+		background-position: 130px -241px;
+	}
+}
